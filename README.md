@@ -29,8 +29,8 @@
     - need to add the `--reporter mochawesome` after your test command
 
 ## Optional NPM Packages
-- `npm install `chai --save-dev` [Chai](https://www.npmjs.com/package/chai)
-- `npm install `chai-as-promised` [Chai-as-promised](https://www.npmjs.com/package/chai-as-promised)
+- `npm install chai --save-dev` [Chai](https://www.npmjs.com/package/chai)
+- `npm install chai-as-promised` [Chai-as-promised](https://www.npmjs.com/package/chai-as-promised)
     
 ## Fun Facts
 - **IMPORTANT** check the package.json file and have to edit the `devDependencies` to match `"selenium-webdriver": "2.47.0"`
